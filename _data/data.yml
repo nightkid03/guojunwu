@@ -18,8 +18,8 @@ sidebar:
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: - # Include the full website URL, including "http://" or "https://".
-  linkedin: -
-  xing: -
+  linkedin: x
+  xing: x
   github: nightkid03
   telegram: # add your nickname without '@' sign
   gitlab:
