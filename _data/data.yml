@@ -17,14 +17,14 @@ sidebar:
   phone: 012 345 6789
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: - # Include the full website URL, including "http://" or "https://".
+  website: x # Include the full website URL, including "http://" or "https://".
   linkedin: x
   xing: x
   github: nightkid03
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  twitter: -
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
